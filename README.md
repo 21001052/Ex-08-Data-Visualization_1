@@ -20,8 +20,8 @@ Apply data visualization techniques to identify the patterns of the data.
 # CODE:
 
 ```
-NAME: EASWAR.J
-REG NO: 212221230024
+NAME: thamaraiselvan v
+REG NO: 212221230115
 ```
 ```
 #loading the dataset
